@@ -12,7 +12,7 @@
 -> A word guessing game where the player tries to guess the hidden word.
 
 # 3. Stock Portfolio Tracker
--.A Python application used to track stock investments and calculate portfolio value.
+-> A Python application used to track stock investments and calculate portfolio value.
 
 # Technology Used
 -> Python
